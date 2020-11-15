@@ -1,0 +1,2 @@
+all:
+	@echo "all in aim_b"
